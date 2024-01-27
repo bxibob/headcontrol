@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">headcontrol</string>
+    <string name="service_name">Enable Facecam</string>
+    <string name="facecam_service_description">Enable Facecam is a mouse replacement software that moves the pointer as you move your head.</string>
+    <string name="facecam_preferences_title">Enable Facecam settings</string>
+
+</resources>
